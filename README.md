@@ -4,7 +4,7 @@ I'm a passionate web development enthusiast currently diving deep into the world
 
 ## 👀 Interests
 - 💻 Web Development (Frontend & Backend)
-- 📱 DataBase
+- 🛢️ DataBase
 - ☕ Java Programming
 - 🚀 Building projects that solve real-world problems
 
