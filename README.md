@@ -9,8 +9,8 @@ I'm a passionate web development enthusiast currently diving deep into the world
 - 🚀 Building projects that solve real-world problems
 
 ## 🌱 Currently Learning
-- Java (OOP, DSA, Spring Boot soon!)
-- Modern Web Development (HTML ,CSS, JavaScript, React, Node.js)
+- Java (OOP, DSA, Spring Boot , Hibernate)
+- Modern Web Development (HTML ,CSS, JavaScript, React, Node.js,Express.js,Angular)
 - DataBase (MySQL , NoSQL ,MongoDB)
 - Git and Open Source Collaboration
   
